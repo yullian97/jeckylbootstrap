@@ -1,6 +1,6 @@
 # Bootstrap 3 Starter Theme for Jekyll
 
-![Bootstrap 3 Jekyll]({{ site.data.global.url }}img/bootstrap-plus-jekyll.png)
+![Bootstrap 3 Jekyll](https://scotch.io/wp-content/uploads/2015/10/bootstrap-plus-jekyll.png)
 
 * [Demo](https://salesucation.github.io)
 * [Read the Jekyll Tutorial](https://scotch.io/tutorials/getting-started-with-jekyll-plus-a-free-bootstrap-3-starter-theme)
