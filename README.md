@@ -14,9 +14,11 @@ This is just a starter theme!
 
 ## Getting Started
 
-To start coding away, first fork this repo...
+To start coding away
 
-Change the `_data/global.yml` to have your sitename in it.
+1. fork this repo...
+1. change the repository name to your github name`.github.io` be editing the settings
+1. Change the `_data/global.yml` to have your sitename in it.
 
 ```
 
