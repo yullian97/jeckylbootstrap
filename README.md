@@ -14,23 +14,23 @@ This is just a starter theme!
 
 ## Getting Started
 
-To start coding away, first clone this repo...
+To start coding away, first fork this repo...
+
+Change the `_data/global.yml` to have your sitename in it.
 
 ```
-git clone https://github.com/scotch-io/scotch-io.github.io my-blog
-cd my-blog
-```
 
-Then run Jekyll (if you don't have Jekyll installed, see the tutorial or docs):
+# Site Settings
+title: 'Scotch Jekyll Bootstrap'
+description: 'An Open-Source Bootstrap 3 Jekyll Theme by Scotch'
+url: 'https://salesucation.github.io' # the base hostname & protocol for your site
+footer_text: 'This text is footer text. Footer text goes here.'
 
-```
-jekyll serve
-```
+# Admin Settings
+admin_name: 'Nicholas Cerminara'
+admin_email: 'nick@scotch.io'
 
-Change `url` in `_data/global.yml` to:
 
-```
-http://127.0.0.1:4000
 ```
 
 Start coding.
